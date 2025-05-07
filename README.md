@@ -44,9 +44,8 @@ Example trajectory plots and performance metrics are available in the `/results/
 
 ## 📁 Repository Structure
 - `/images/ → Underwater image frames`
-- `/calibration.yaml → Camera intrinsic parameters`
-- `/groundtruth.txt → Ground truth trajectory (X, Z)`
-- `/results/ → Sample outputs: trajectory plots, logs, metrics`
+- `/camera_calibration.yaml → Camera intrinsic parameters`
+- `/gt1.csv → Ground truth trajectory (X, Z)`
 - `README.md → You are here`
 
 ---
