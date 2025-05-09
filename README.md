@@ -34,15 +34,13 @@
 - Essential matrix estimation + pose refinement  
 - Rotation clipping for motion smoothing
 
-Example trajectory plots and performance metrics are available in the `/results/` folder.
-
 ---
 
 ## 📁 Repository Structure
 - `/images/ → Underwater image frames`
 - `/camera_calibration.yaml → Camera intrinsic parameters`
 - `/gt1.csv → Ground truth trajectory (X, Z)`
-- `README.md → You are here`
+- `README.md`
 
 ---
 
