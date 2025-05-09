@@ -15,10 +15,6 @@
 - **Path Length**: 5.8 meters (X–Z plane)  
 - **Calibration**: Intrinsic matrix & distortion coefficients via 9×6 checkerboard (2.2 cm squares)  
 - **Ground Truth**: Floor-anchored chain with labelled colored tags  
-- **Available Files**:
-  - `/images/` – raw image sequence  
-  - `calibration.yaml` – camera intrinsics  
-  - `groundtruth.txt` – X, Z coordinates (meters) per frame  
 
 ---
 
