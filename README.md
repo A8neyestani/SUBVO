@@ -52,7 +52,7 @@ If you use SUBVO in your research, please cite:
 
 > Arman Neyestani, Francesco Picariello, Daniel Mihai Toma, Ahmad Falahzadeh, Pasquale Daponte, Joaquin Del Rio Fernandez, Luca De Vito  
 > **"SUBVO Dataset: Analyzing Feature Extraction for Underwater Monocular Visual Odometry"**  
-> *IEEE I2MTC 2025 Conference*  
+> The IEEE I2MTC – International Instrumentation and Measurement Technology Conference 2025  
 > [Link to paper]
 
 ---
